@@ -1,4 +1,4 @@
-#  🙋🏻About Me:         ![image](https://github.com/user-attachments/assets/6e1b9b4d-04fc-4db9-9696-74cd6b551f3a)
+#  🙋🏻About Me:         
       
 ->Name: Darshan Naidu<br>->College: AIT Engineering College, Chikmagalur<br>->Field of Study: Engineering<br>->Interests: Passionate about technology, problem-solving,<br>    and developing innovative solutions. Always eager to learn<br>    and apply new programming concepts.
 
